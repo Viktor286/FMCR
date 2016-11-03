@@ -16,7 +16,7 @@ so we can easely working with them. There are 10 controls of camera in 3 groups
 
 # Controls
 
-1. Position Group
+1 Position Group
 XYZ-Base positions usually stands on Main Point of Action
 
 - X-Position
@@ -24,14 +24,14 @@ XYZ-Base positions usually stands on Main Point of Action
 - Z-Position
 
 
-2. Rotations Group
+2 Rotations Group
 DHV point Intersection of Distance, Horizon, Vertical
 
 - Distance
 - Horizon
 - Vertical
 
-3. Head Extra Group
+3 Head Extra Group
 "Head on Shoulders" on DHV point (limit -90° to 90°)
 
 - Roll
